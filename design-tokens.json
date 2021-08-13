@@ -1,0 +1,828 @@
+{
+  "color": {
+    "educacional": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(112, 184, 255, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(82, 168, 255, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(51, 153, 255, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(43, 130, 217, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(36, 107, 179, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(121, 239, 255, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(0, 185, 255, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(21, 110, 243, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(0, 87, 238, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(5, 62, 161, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "concursos": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(143, 114, 220, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(126, 101, 212, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(110, 88, 205, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(93, 75, 197, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(77, 62, 190, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(192, 153, 255, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(167, 113, 255, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(113, 55, 207, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(89, 50, 157, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(62, 34, 110, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "vestibulares": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 156, 67, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(239, 129, 30, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(228, 108, 0, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(204, 95, 0, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(178, 82, 0, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 156, 67, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(239, 129, 30, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(228, 108, 0, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(204, 95, 0, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(178, 82, 0, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(194, 82, 255, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(179, 41, 255, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(165, 0, 255, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(139, 0, 214, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(112, 0, 173, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "medicina": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(47, 197, 206, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(35, 184, 193, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(11, 164, 174, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(5, 140, 149, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(0, 112, 119, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(47, 197, 206, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(35, 184, 193, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(11, 164, 174, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(5, 140, 149, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(0, 112, 119, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "militar": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(89, 178, 145, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(78, 156, 127, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(63, 126, 103, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(47, 94, 77, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(36, 71, 58, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(89, 178, 145, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(78, 156, 127, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(63, 126, 103, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(47, 94, 77, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(36, 71, 58, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "carreirajuridica": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(240, 156, 0, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(201, 131, 0, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(163, 107, 0, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(125, 82, 0, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(89, 58, 0, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(240, 156, 0, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(201, 132, 0, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(163, 107, 0, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(125, 82, 0, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(89, 58, 0, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "second": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(220, 184, 76, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(220, 178, 76, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(220, 170, 76, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(220, 162, 76, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(220, 154, 76, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "oab": {
+      "primary": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(226, 47, 47, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(198, 22, 22, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(174, 10, 11, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(149, 5, 5, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(119, 0, 0, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(227, 182, 182, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(199, 119, 119, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(173, 69, 69, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(148, 52, 53, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(120, 30, 30, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "support": {
+      "positive": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(77, 223, 163, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(39, 216, 144, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(1, 209, 124, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(1, 179, 106, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(1, 146, 87, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(12, 236, 155, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(4, 198, 128, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(3, 133, 86, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(1, 112, 72, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(0, 81, 52, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "negative": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 128, 128, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 100, 100, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 73, 73, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(217, 62, 62, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(179, 51, 51, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 138, 188, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 69, 149, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(222, 35, 115, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(195, 30, 101, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(164, 23, 84, 1)",
+            "type": "color"
+          }
+        }
+      },
+      "warning": {
+        "light": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 175, 77, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 157, 69, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 139, 61, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 121, 53, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 103, 45, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 199, 148, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 157, 68, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 121, 0, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(206, 98, 0, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(171, 81, 0, 1)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "ui": {
+      "grey": {
+        "light": {
+          "0": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 255, 255, 1)",
+            "type": "color"
+          },
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(250, 250, 250, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(204, 204, 204, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(153, 153, 153, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(68, 68, 68, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(34, 34, 34, 1)",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "0": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(255, 255, 255, 1)",
+            "type": "color"
+          },
+          "100": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(169, 171, 189, 1)",
+            "type": "color"
+          },
+          "200": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(86, 87, 105, 1)",
+            "type": "color"
+          },
+          "300": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(45, 47, 64, 1)",
+            "type": "color"
+          },
+          "400": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(37, 38, 51, 1)",
+            "type": "color"
+          },
+          "500": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(18, 21, 32, 1)",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}
